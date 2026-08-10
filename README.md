@@ -1,14 +1,14 @@
 # Employee Attrition Risk Analysis
 
-A SQL + Tableau project analyzing employee attrition patterns to identify key risk factors and support data-driven retention strategy.
+A SQL + Tableau project analyzing employee attrition patterns...
 
-**[View the live dashboard on Tableau Public →](#)** *(add your published link here)*
+**[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/pooja.shah8865/viz/HR_Attrition_Analysis_17863973710400/Dashboard2#1)**
 
 ---
 
 ## Overview
 
-Using a simulated HR dataset (schema modeled on the IBM HR Analytics Attrition dataset), this project answers five core business questions an HR or People Analytics team would realistically ask:
+A self-directed project applying SQL and Tableau to HR attrition analysis, inspired by real workforce challenges encountered during my HR analytics roles at Linear Loop and Qable and Tatvic Analytics — where I worked on onboarding redesign and retention initiatives using similar (though less structured) analysis. This project answers five core business questions an HR or People Analytics team would realistically ask:
 
 1. What's the overall attrition rate, and how does it break down by department?
 2. How do employees who left compare to those who stayed, in tenure, satisfaction, and income?
