@@ -2,7 +2,7 @@
 
 A SQL + Tableau project analyzing employee attrition patterns...
 
-**[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/pooja.shah8865/viz/HR_Attrition_Analysis_17863973710400/Dashboard2#1)**
+**[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/pooja.shah8865/viz/HR_Attrition_Analysis_17863973710400/Dashboard2?publish=yes)**
 
 ---
 
